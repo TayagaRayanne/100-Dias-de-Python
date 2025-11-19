@@ -35,7 +35,8 @@ O projeto segue a metodologia do curso: **uma pasta por dia**, contendo o códig
 | **006** | Fundamentos, Funções e Karel (Laços While)                                  | ✅ Concluído |
 | **007** | Fundamentos, Hangman (Decompondo Problemas, Criando Fluxograma)             | ✅ Concluído |
 | **008** | Fundamentos, Parametros de Funções (Funções com um ou mais Inputs)          | ✅ Concluído |
-| **009** | Dicionários, Aninhamento e o Projeto "Leilão Secreto"                       | ✅ Concluído |
+| **009** | Fundamentos, Dicionários, Aninhamento e o Projeto "Leilão Secreto"          | ✅ Concluído |
+| **010** | Fundamentos, Funções com Output (Projeto Calculadora e Projeto Ano Bissexto)| ✅ Concluído |
 | **...** | (Aguardando os próximos dias!)                                              | 🚧 Em andamento |
 
 # Por: Tayga Rayanne
